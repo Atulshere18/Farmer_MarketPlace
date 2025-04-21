@@ -8,6 +8,6 @@ Farmers Marketplace
 * HTML
 * CSS
 * JAVASCRIPT
-* PHP
+* REACT
 * BOOTSTRAP
 
